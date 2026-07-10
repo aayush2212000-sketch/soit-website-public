@@ -112,4 +112,12 @@ export const newsItems = [
       "The School of Information Technology (SOIT) recently organized the Smart India Hackathon, transforming the campus into a hub of coding and creativity. Students showcased their technical prowess by building software and hardware solutions for various problem statements provided by government ministries.",
     image: "/assets/GalleryImages/SIH-23.jpeg",
   },
+  {
+    id: 15,
+    title: "Udgam",
+    date: "September 15, 2026",
+    excerpt:
+      "The School of Information Technology (SOIT) recently organized the Smart India Hackathon, transforming the campus into a hub of coding and creativity. Students showcased their technical prowess by building software and hardware solutions for various problem statements provided by government ministries.",
+    image: "D:\DSC05115.JPG",
+  },
 ];
